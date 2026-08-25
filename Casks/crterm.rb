@@ -5,7 +5,7 @@ cask "crterm" do
   url "https://github.com/mbcltd/CRTerminal/releases/download/v#{version}/CRTerminal.dmg"
   name "crterm"
   desc "Beautifully opinionated terminal emulator with GPU-accelerated retro presets"
-  homepage "https://crterm.ai"
+  homepage "https://crterm.ai/"
 
   livecheck do
     url :url
