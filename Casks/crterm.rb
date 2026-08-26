@@ -1,6 +1,6 @@
 cask "crterm" do
-  version "1.15.1-173"
-  sha256 "b95db8068f398cb8eddbc8185f0c25f913a3ae6ea0646e8b1bb82271ced630ef"
+  version "1.15.1-175"
+  sha256 "035414f3f19efda52b61cf7c853d7962d15745498af9f7288c7a8e69a2516c6b"
 
   url "https://github.com/mbcltd/CRTerminal/releases/download/v#{version}/CRTerminal.dmg"
   name "crterm"
